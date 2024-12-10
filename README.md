@@ -51,6 +51,9 @@
 <br />
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Hi%20I'm%20Jonghyuk!😊%0AWelcome%20My%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Hi%20I'm%20Jonghyuk!%F0%9F%98%8A&fontSize=60&animation=fadeIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome%20My%20Git&fontSize=50&animation=fadeIn&fontColor=fff)
+
 
 
 <h1>Hi 👋, I'm J.H</h1>
