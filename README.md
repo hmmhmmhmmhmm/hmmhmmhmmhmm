@@ -41,10 +41,10 @@
 <br>
 <br>
 
-**Current Lecture :** 
+**Completed Course :** 
 
-- 2021.04.01 ~ 2021.09.01 KH 정보교육원 정보보안 강의
-- 2024.05.28 ~ 2024.12.16 이젠 컴퓨터 아카데미 풀스택 강의
+- 2021.04.01 ~ 2021.09.01 KH 정보교육원 정보보안 과정 수료
+- 2024.05.28 ~ 2024.12.16 이젠 컴퓨터 아카데미 풀스택 과정 수료
 <br /><br />
 
 
@@ -108,7 +108,7 @@
 
 <br><br><br><br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/hmmhmmhmmhmm))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/hmmhmmhmmhmm)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
 <!--
