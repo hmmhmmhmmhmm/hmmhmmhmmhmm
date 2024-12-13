@@ -1,4 +1,4 @@
-<h1 align="center">Hi, </h1>
+<h1 align="center">Hi,Jonghyuk </h1>
 <h3 align="center">
   Front-End & Back-End 풀스택 개발자를 꿈꾸는 김종혁 입니다.
 </h3>
@@ -50,15 +50,15 @@
 
 <br />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Hi%20i'm%20JongHyuk😊&desc=Welcome!%20My%20Git.&fontSize=60&animation=fadeIn&fontColor=fff) -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Hi%20i'm%20JongHyuk😊&desc=Welcome!%20My%20Git.&fontSize=45&animation=fadeIn&fontColor=fff) 
 
 
 
 
 <h1>Hi 👋, I'm J.H</h1>
 <br>
-### 🙋 I'm Seoyeon, Fullstack developer. 
+### 🙋 I'm Jonghyuk, Fullstack developer. 
 🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 김종혁입니다. <br>
 🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
 🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다. <br>
