@@ -106,7 +106,7 @@
 
 [website]:
 [youtube]:
-[instagram]:https://www.instagram.com/seolin_bi/
+[instagram]:
 
 <br><br><br><br><br><br>
  [![탑 랭스](https://github-readme-stats.vercel.app/api/top-langs/?username=흠흠&layout=donut)](https://github.com/hmmhmmhmmhmm/reacttest)
