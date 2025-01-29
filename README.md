@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&text=일%20잘합니다..&animation=blinking&fontColor=3667d9&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&text=제발%20취업%20시켜주세요..&animation=blinking&fontColor=3667d9&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 사용자 경험을 생각하는 신입 웹개발자 </h2>  
