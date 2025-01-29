@@ -3,7 +3,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 사용자 경험을 생각하는 신입 웹개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 고객 상담, 영업 및 판매 업무를 통해 쌓은 경험을 바탕으로, 고객의 니즈를 빠르게 파악하고 원하는 경험을 제공할 수 있는 개발자가 되고자 합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 고객 상담, 영업 및 판매 업무를 통해 쌓은 경험을 바탕으로, 고객의 니즈를 빠르게 파악하고 원하는 경험을 제공할 수 있는 개발자가 되고 싶습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 의사소통 함에 있어 적극적이고 받아들이는게 빠르며 다양한 의견을 받아들이고 수용할 자세가 되어 있습니다. </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
