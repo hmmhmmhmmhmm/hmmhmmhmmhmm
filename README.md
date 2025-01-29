@@ -30,8 +30,11 @@
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmmhmmhmmhmm%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hmmhmmhmmhmm&custom_title=hmmhmmhmmhmm's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmhmmhmmhmm&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> </div>
-        <img src="https://github-readme-stats.vercel.app/api?username=hmmhmmhmmhmm&custom_title=hmmhmmhmmhmm's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-    </div>
     
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <div style="text-align: left;"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=hmmhmmhmmhmm&custom_title=Github%20Stats&bg_color=000000&title_color=000000&text_color=000000&cache_seconds=100"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmhmmhmmhmm&layout=compact&bg_color=000000&title_color=000000&text_color=000000"/>
+    </div>
+</div>
